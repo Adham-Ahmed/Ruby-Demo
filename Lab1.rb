@@ -62,5 +62,22 @@
 # end
 # IsLeapYear(2020)  
 
+#6
+# def rotateLeft(myArray)
+#     # myArray = [1,2,3,4,5,6,7,8]
+#     firstElement = myArray[0]
+#     n=myArray.length-1
+#     for i in 0..n do
+#         myArray[i] = myArray[i+1]
+#     end
+#     myArray[n] = firstElement
+#     return myArray
+# end
+
+# myArray = [1,2,3,4,5,6,7,8]
+# rotatedArray = rotateLeft(myArray)
+# p rotatedArray
+
+
 
 
